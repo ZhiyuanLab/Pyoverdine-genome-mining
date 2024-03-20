@@ -7,6 +7,7 @@
 -The folder "./section5to6_Receptor/" contains data and programs that pyoverdine receptor FpvA from fragmented sequences, which is related to Figure 5-6. Details can be seen in the "readme" file in that folder.
 
 #Data Overview: 
+
 #In this work, we performed data mining on the pyoverdine synthetase and receptors in the Pseudomonas genus. Our analysis resulted in:
 - Phylogenetic analysis of the 1928 Pseudomonas groups, with data stored in file "./data/phygroup_0308_syndist.xlsx"
 - Prediction of the Pyoverdines products, stored in the file "./data/pyoverdine_digital_1664.xlsx"
