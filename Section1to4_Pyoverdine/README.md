@@ -3,4 +3,4 @@ In this section, we extract and reannotated pyoverdine from the antiSMASH result
 
 - pyoverdine_annotation.ipynb is a jupyter notebook including the whole processed and demo.
 - All_Adomain_indecate.xlsx is the prediction substract of each A domain.
-- pyoverdine_digital.xlsx is the complete prediction of pyoverdine production.
+- pyoverdine_digital_1664.xlsx is the complete prediction of pyoverdine production.
