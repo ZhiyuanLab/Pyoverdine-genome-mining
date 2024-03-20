@@ -1,5 +1,7 @@
 # Pyoverdine-genome-mining
+
 #This file documents the code and data of the manuscript "From sequence to molecules: Feature sequence-based genome mining uncovers the hidden diversity of bacterial siderophore pathways" (doi: https://doi.org/10.1101/2023.10.30.564663 )
+
 #Programs generating the data and figures for this work are:
 - The folder "./Phytree/" contains data and programs about the phylogenetic tree that related to Figure1e. Details can be seen in the "readme.txt" file in that folder
 - The folder "./Section1to4_Pyoverdine/" contains programs that clean and annotate pyoverdine synthetase from fragmented sequences, which is related to Figure 2-4. Details can be seen in the "readme.txt" file in that folder. 
