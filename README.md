@@ -7,6 +7,7 @@
 - The folder "./Section1to4_Pyoverdine/" contains programs that clean and annotate pyoverdine synthetase from fragmented sequences, which is related to Figure 2-4. Details can be seen in the "readme.txt" file in that folder. 
 - The folder "./Figure4_Chord/" contains data and programs that assess the diversity and horizontal gene transfers of the pyoverdine synthetase and receptors across the Psudomonas genus, which is related to Figure 4. Details can be seen in the "readme.txt" file in that folder
 - The folder "./Section5to6_Receper" contains data and programs that clean and annotate fpvA receptors in Psudomonas genomes, which are related to Figure 5 to 6. Details can be seen in the "readme.mlx" or "readme.html" file in that folder
+
 #Data Overview: 
 
 #In this work, we performed data mining on the pyoverdine synthetase and receptors in the Pseudomonas genus. Our analysis resulted in:
