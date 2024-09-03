@@ -14,3 +14,5 @@
 - Phylogenetic analysis of the 1928 Pseudomonas groups, with data stored in file "./data/phygroup_0308_syndist.xlsx"
 - Prediction of the Pyoverdines products, stored in the file "./data/pyoverdine_digital_1664.xlsx"
 - Prediction of the fpvA receptors, stored in the file "./data/fpvAs_1664.fasta";
+
+Please cite: Shaohua Gu,Yuanzhe Shao,Karoline Rehm,Laurent Bigler,Di Zhang,Ruolin He,Ruichen Xu,Jiqi Shao,Alexandre Jousset,Ville-Petri Friman,Xiaoying Bian,Zhong Wei,Rolf Kümmerli,Zhiyuan Li, (2024) From sequence to molecules: Feature sequence-based genome mining uncovers the hidden diversity of bacterial siderophore pathways eLife 13:RP96719
